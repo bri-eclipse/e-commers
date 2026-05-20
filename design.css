@@ -10,7 +10,7 @@ img{
 }
 .container{
 	max-width:400px;
-	background-color:#f53527;
+	background-color:#db190b;
 	padding:20px;
 	border-radius:8px;
 	box-shadow:0 0 10px rgba(0,0,0.1);
@@ -196,14 +196,14 @@ body {
 }
 
 .navbar a:hover, .subnav:hover .subnavbtn{
-	background-color:#75b2fa;
+	background-color:#db190b;
 }
 
 .subnav-content{
 	display:none;
 	position:absolute;
 	left:0;
-	background-color:#75b2fa;
+	background-color:#db190b;
 	width:100%;
 	z-index:1;
 }
